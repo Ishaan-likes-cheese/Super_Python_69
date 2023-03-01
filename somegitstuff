@@ -1,0 +1,5 @@
+1. git add . 
+2. git status 
+3. git commit -m "Message of choice"
+4. git status                                   to check
+5. git push                              so github can save it
